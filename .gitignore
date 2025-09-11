@@ -1,0 +1,11 @@
+# Compiled class files
+bin/
+
+# VS Code settings
+.vscode/
+
+# Dependency folders
+lib/
+
+# Log files
+*.log
